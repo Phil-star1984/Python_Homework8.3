@@ -10,5 +10,7 @@ elif operation == "-":
     print(number_one - number_two)
 elif operation == "/":
     print(number_one / number_two)
+elif operation == "!":
+    print("Take a break, please")
 else:
     print("You either did not write numbers or set a wrong arithmetic operation. Try again.")
